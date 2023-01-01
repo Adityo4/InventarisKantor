@@ -1,0 +1,6 @@
+ID : 1
+Nama Barang : kursi
+Nama Peneriman : tyo
+ID : 2
+Nama Barang : komputer
+Nama Peneriman : kawe
